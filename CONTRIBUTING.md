@@ -21,12 +21,12 @@ Please take a moment to read the following guidelines before contributing:
 
 ## How to Contribute 🤔
 
-To get started, look at the existing [**create a new issue**](https://github.com/mdazfar2/HelpOps-Hub/issues/new)!
+To get started, look at the existing [**issues**](https://github.com/mdazfar2/HelpOps-Hub/issues) or [**create a new issue**](https://github.com/mdazfar2/HelpOps-Hub/issues/new)!
 
 ### Setup guidelines 🪜
 
 > [!NOTE]
-> This is [Next.js](https://nextjs.org/docs) project.
+> This is a [Next.js](https://nextjs.org/docs) project.
 > You must have installed Node.js on your local macahine. If you don't have it installed yet,                                                             
   you can download it from [here](https://nodejs.org/en/download/package-manager).
 
@@ -55,7 +55,7 @@ To get started, look at the existing [**create a new issue**](https://github.com
   
  - Create a new branch for your feature.
    ```bash
-    git checkout -b <your_branch_name>
+    git switch -b <your_branch_name>
    ```
  - Perform your desired changes to the code base.
  - Track and stage your changes.
@@ -87,7 +87,7 @@ To get started, look at the existing [**create a new issue**](https://github.com
 > Use [freeconvert.com](https://www.freeconvert.com/png-to-webp) to convert images to the required webp or avif formats.
 
 ## 💡 Want to contribute some documents related DevOps?
-- Just crate new folder in the root directory according to your requirement
+- Just create a new folder in the root directory according to your requirement
 - and write everythig step by step in your own language in `README.md`
 - And then commit changes
 - Append new Documentation of Installation or anything
